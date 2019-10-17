@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- **CFA charter holder**
+- **FRM certified**
+- _GitHub_
+- **_Python_**
