@@ -1,0 +1,4 @@
+- **CFA charter holder**
+- **FRM certified**
+- _GitHub_
+- **_Python_**
